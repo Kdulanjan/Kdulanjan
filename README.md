@@ -1,5 +1,4 @@
 
-<img align="center" alt="Coding" width="600" src="https://i1.wp.com/hungary.wherefor.org/wp-content/uploads/2018/07/digital-software-development.gif?fit=705%2C446&ssl=1">
 <h1 align="center">Hi 👋, I'm Kalana Dulanjan</h1>
 <h3 align="center">Student At ijse-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="300" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif?x62286">
