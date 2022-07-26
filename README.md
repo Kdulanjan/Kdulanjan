@@ -1,4 +1,5 @@
 
+<img align="center" alt="Coding" width="1000" length="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 <h1 align="center">Hi 👋, I'm Kalana Dulanjan</h1>
 <h3 align="center">Student At ijse-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="300" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif?x62286">
